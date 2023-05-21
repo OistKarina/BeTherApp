@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{729B098D-8B53-4DAF-B423-E26290512A10}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeTherApp/View/HistoryPage.xaml.cs">
+    <Files>
+      <File FileName="BeTherApp/MainPage.xaml.cs" Line="1" Column="20" />
+      <File FileName="BeTherApp/MainPage.xaml" Line="8" Column="25" />
+      <File FileName="BeTherApp/AppShell.xaml" Line="18" Column="44" />
+      <File FileName="BeTherApp/AppShell.xaml.cs" Line="3" Column="1" />
+      <File FileName="BeTherApp/MauiProgram.cs" Line="6" Column="1" />
+      <File FileName="BeTherApp/ResultUnit.cs" Line="2" Column="20" />
+      <File FileName="BeTherApp/ViewModels/BaseViewModel.cs" Line="3" Column="44" />
+      <File FileName="BeTherApp/ViewModels/ConnectToAppModle.cs" Line="26" Column="1" />
+      <File FileName="BeTherApp/View/LoginPage.xaml" Line="10" Column="27" />
+      <File FileName="BeTherApp/View/LoginPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="BeTherApp/View/RegisterPage.xaml" Line="4" Column="50" />
+      <File FileName="BeTherApp/View/RegisterPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BeTherApp/View/HistoryPage.xaml" Line="9" Column="29" />
+      <File FileName="BeTherApp/View/HistoryPage.xaml.cs" Line="3" Column="33" />
+      <File FileName="BeTherApp/Models/UserData.cs" Line="13" Column="1" />
+      <File FileName="BeTherApp/Services/BaseService.cs" Line="3" Column="2" />
+      <File FileName="BeTherApp/Services/LoginService.cs" Line="7" Column="20" />
+      <File FileName="BeTherApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="BeTherApp/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeTherApp" expanded="True">
+            <Node name="BeTherApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="HistoryPage.xaml" expanded="True">
+                  <Node name="HistoryPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="RegisterPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BeTherApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+</Properties>
