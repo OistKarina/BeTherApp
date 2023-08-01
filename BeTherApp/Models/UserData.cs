@@ -1,6 +1,8 @@
 ﻿using System;
 namespace BeTherApp.Models
-{
+{/// <summary>
+/// hey
+/// </summary>
     public class User
     {
         public string Username { get; set; }
