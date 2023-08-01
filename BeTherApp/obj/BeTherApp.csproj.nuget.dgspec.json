@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/koistrach/Projects/BeTherApp/BeTherApp/BeTherApp.csproj": {}
+    "/Users/koistrach/Desktop/BeTherApp/BeTherApp/BeTherApp.csproj": {}
   },
   "projects": {
-    "/Users/koistrach/Projects/BeTherApp/BeTherApp/BeTherApp.csproj": {
+    "/Users/koistrach/Desktop/BeTherApp/BeTherApp/BeTherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/koistrach/Projects/BeTherApp/BeTherApp/BeTherApp.csproj",
+        "projectUniqueName": "/Users/koistrach/Desktop/BeTherApp/BeTherApp/BeTherApp.csproj",
         "projectName": "BeTherApp",
-        "projectPath": "/Users/koistrach/Projects/BeTherApp/BeTherApp/BeTherApp.csproj",
+        "projectPath": "/Users/koistrach/Desktop/BeTherApp/BeTherApp/BeTherApp.csproj",
         "packagesPath": "/Users/koistrach/.nuget/packages/",
-        "outputPath": "/Users/koistrach/Projects/BeTherApp/BeTherApp/obj/",
+        "outputPath": "/Users/koistrach/Desktop/BeTherApp/BeTherApp/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -179,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
@@ -258,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
@@ -338,7 +338,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

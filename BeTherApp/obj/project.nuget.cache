@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHzL//VxbqtsFMRI6cASRxg4sjxidra/bd8fGEB9WRwXU26vZI+QBd/fxoMZL+f1dj8I4vTpXcViFutP6eLZLA==",
+  "dgSpecHash": "mQp0vdI9/nHm/LXFKA2vJVKYrnaUAR8ZjKIabNRxX19ZdqT1ThD8exRbEfVZeBbhiPcTZF8gmDkhr/4hAXn+Qg==",
   "success": true,
-  "projectFilePath": "/Users/koistrach/Projects/BeTherApp/BeTherApp/BeTherApp.csproj",
+  "projectFilePath": "/Users/koistrach/Desktop/BeTherApp/BeTherApp/BeTherApp.csproj",
   "expectedPackageFiles": [
     "/Users/koistrach/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/koistrach/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
